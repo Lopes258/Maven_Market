@@ -1,15 +1,15 @@
 # Maven_Market
 
-Projeto de um Dashboard
+Dashboard design
 
-Indo da esquerda para direita temos:
+Going from left to right we have:
 
-- Uma tabela mostrando os nomes dos produtos com a sua quantidade total de transações realizadas, depois o lucro e margem de lucro e a media de retorno.
+- A table showing the names of the products with their total number of transactions carried out, then the profit and profit margin and the average return.
   
-- No top temos 3 cards um mostrando no mês atual a quantidade de transações depois o lucro e os retornos.
+- At the top we have 3 cards, one showing the number of transactions in the current month, then the profit and returns.
   
-- Abaixo dos cards tempos um mapa com a densidade geografica de aonde se encontra as vendas e a esquerda um esquema mostrando a proporção de venda para o TOP 3 paises vendedores.
+- Below the time cards is a map with the geographic density of where sales are located and on the left a diagram showing the proportion of sales for the TOP 3 selling countries.
   
-- Abaixo temos a receita semanal mostrando por um grafico semana a semana.
+- Below we have the weekly revenue showing a graph week by week.
   
-- E por fim uma comparação da receita total com a receita alvo.
+- And finally a comparison of total revenue with target revenue.
